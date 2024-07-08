@@ -18,5 +18,4 @@
 | Garch                            | x                           |                 |              |
 | SES                              |                             | x               |              |
 | Multi-Layer Perceptron (MLP)     |                             |                 | x            |
-=======
 
