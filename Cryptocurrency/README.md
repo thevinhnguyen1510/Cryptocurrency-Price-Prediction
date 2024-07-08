@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IS403_O22_HTCL_12
 
 ## Thông tin nhóm
